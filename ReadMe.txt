@@ -1,6 +1,6 @@
-LateralMovementCheck.ps1
+LateralMovementCheckFinal.ps1
 
-This PowerShell script is developed to check for lateral movement events in Windows event log files. 
+This PowerShell script is developed to check for lateral movement events from Windows event log files. 
 
 Here is a brief overview of what it does:
 
